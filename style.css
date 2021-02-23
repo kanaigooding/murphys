@@ -1,0 +1,23 @@
+div.ui.borderless.topmenu.menu{
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
+
+div.ui.borderless.mainmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+div.ui.three.column.grid.container {
+  margin: 15px;
+  background: #004030;
+}
+
+.footer-background {
+  background: #004030;
+}
+
+div.item, div.column {
+  color: white;
+}
